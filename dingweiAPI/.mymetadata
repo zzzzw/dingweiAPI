@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dingweiAPI"
+  id="myeclipse.1444887087394"
+  context-root="/dingweiAPI"
+  j2ee-spec="5.0"
+  archive="dingweiAPI.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
